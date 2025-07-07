@@ -93,3 +93,14 @@ To run the analysis:
 ## 📬 Contact
 
 For questions, suggestions, or collaboration inquiries, please contact Joe (mjt6ss@virginia.edu)
+
+---
+
+## 📜 License
+
+This repository is licensed under the MIT License — see the [`LICENSE`](./LICENSE) file for details.
+
+You are free to use, modify, and adapt this codebase for teaching, research, and commercial purposes. We welcome forks, contributions, and adaptations. If used in an academic or training setting, citation or acknowledgment is appreciated but not required.
+
+Note: This repository is **educational and exploratory** in nature. All code is provided "as-is" without warranty or fitness for a particular use.
+
