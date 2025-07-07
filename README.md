@@ -1,6 +1,14 @@
 # 📊 Machine Learning Analysis of PRISM Drug Sensitivity and Gene Features
 
 This repository presents an exploratory and predictive analysis using publicly available PRISM drug repurposing screen data from the Broad Institute's DepMap project (release 24Q2). Our goal was to identify molecular features (gene expression and gene essentiality) that associate with cancer drug response, with a particular focus on **Lazertinib**, a targeted EGFR inhibitor.
+---
+
+🧑‍🏫 **Teaching use welcome!**  
+This pipeline is clean, modular, and reproducible — perfect for coursework in bioinformatics or computational biology.
+
+Try swapping in another PRISM drug and see what features emerge!
+
+---
 
 ## 📁 Repository Structure
 
